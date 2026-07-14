@@ -4,7 +4,7 @@
 // Engineer: 
 // 
 // Create Date: 27.06.2026 23:40:23
-// Design Name: 
+// Design Name: Prabir Bishal
 // Module Name: reg_bank
 // Project Name: 
 // Target Devices: 
