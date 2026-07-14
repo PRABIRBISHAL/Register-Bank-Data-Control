@@ -44,9 +44,7 @@ This project implements a **4 × 8-bit Register Bank** in **Verilog HDL** with a
 Register-Bank-Data-Control/
 │
 ├── src/
-│   ├── decoder_4X16.v
-│   ├── register_8_bit.v
-│   └── reg_bank.v
+│   ├── reg_bank.v
 │
 ├── tb/
 │   └── reg_bank_tb.v
@@ -55,7 +53,11 @@ Register-Bank-Data-Control/
 │   └── reg_bank.xdc
 │
 ├── simulation/
-│   └── waveform.png
+│    └── screenshot(252).png
+|    └── screenshot(253).png
+|    └── screenshot(254).png
+|    └── screenshot(255).png
+|    └── screenshot(256).png
 │
 ├── README.md
 └── LICENSE
